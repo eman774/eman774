@@ -86,12 +86,12 @@ Full-stack Django web app featuring product management, shopping cart, orders, a
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </p>
+✨ *Let’s collaborate, learn together, and build impactful AI solutions.
 
----
 
 ## 🐍 GitHub Contribution Snake
 ![Snake animation](https://github.com/eman774/eman774/blob/output/github-contribution-grid-snake.svg)
 
----
 
-✨ *Let’s collaborate, learn together, and build impactful AI solutions.*
+
+
