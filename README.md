@@ -1,31 +1,97 @@
-## 👋 Hi there, I'm Eman Hisham!
+<h1 align="center">Hi 👋, I'm Eman Hisham</h1>
+<h3 align="center">AI Student | Aspiring Artificial Intelligence Engineer</h3>
 
-🎓 AI student at Faculty of Computers & Artificial Intelligence Aspiring Artificial Intelligence Engineer
- Currently improving my skills in **Data Science**, **Deep Learning**, **ML models**, **full-stack web apps**,Passionate about turning ideas into real-world applications
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Artificial+Intelligence+Student;Machine+Learning+Enthusiast;Deep+Learning+Explorer;Data+Science+Learner;Always+Learning+New+Things&center=true&width=520&height=45">
+</p>
 
+---
 
-## 🛠️ Skills
+## 👩‍💻 About Me
+🎓 AI student at the **Faculty of Computers & Artificial Intelligence**  
+🤖 Aspiring **Artificial Intelligence Engineer**  
+💡 Passionate about transforming ideas into **real-world AI applications**
 
-- **Languages:** Python, JavaScript, HTML/CSS, C++, SQL
-- **Frameworks & Tools:** Django, Bootstrap, OpenGL,Pandas, NumPy,TensorFlow, Keras, scikit-learn, OpenCV
-- **Concepts:** OOP, ML, NLP, Deep Learning, Data Visualization
-- **Other:** Teamwork, Fast learning, Problem-solving
+I’m currently strengthening my skills in **Machine Learning, Deep Learning, NLP**, and **Full-Stack Web Development**, with hands-on projects and continuous learning.
 
+---
 
+## 🛠️ Languages & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,sql,django,tensorflow,keras,opencv,git,github&perline=6" />
+</p>
 
-  ## 🔨 Current Projects
-  
-- **🧠 IMDB Sentiment Analysis**  NLP classifier to analyze movie reviews 
-- **🩺 Lung & Colon Cancer Detection**  Deep learning model for multi-class cancer image classification
-- **🛍️ E-commerce Web App**  Full-stack site with products, cart, orders
+---
 
+## 🧠 Technical Skills
 
+**Programming Languages:**  
+Python, JavaScript, C++, SQL, HTML, CSS  
 
- ## 📫 How to reach me :
+**Frameworks & Libraries:**  
+Django, Bootstrap, TensorFlow, Keras, scikit-learn, OpenCV  
 
- - 💼 [LinkedIn](https://www.linkedin.com/in/eman-hisham-607411283/)
-- 📨 [Email](mailto:emanhisham471@gmail.com)
+**Core Concepts:**  
+Machine Learning, Deep Learning, NLP, OOP, Data Visualization  
 
-🤝 Let’s collaborate, learn together, and build something great — don’t hesitate to reach out!
+**Soft Skills:**  
+Teamwork • Fast Learner • Problem Solving  
 
-  
+---
+
+## 🔨 Featured Projects
+
+### 🧠 IMDB Sentiment Analysis
+NLP-based classifier to analyze and predict sentiment of movie reviews using machine learning techniques.
+
+### 🩺 Lung & Colon Cancer Detection
+Deep learning model for **multi-class medical image classification**, supporting early diagnosis using CNNs.
+
+### 🛍️ E-commerce Web Application
+Full-stack Django web app featuring product management, shopping cart, orders, and user authentication.
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eman774&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eman774&theme=tokyonight" />
+</p>
+
+---
+
+## 🚀 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eman774&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 Achievements & Activities
+- 🥉 **Third Place – MASTERMINDS Hackathon 2025**
+- 🤝 Team-based AI & software development projects
+- 📚 Continuous learning through hands-on practice and research
+
+---
+
+## 📫 Connect With Me
+<p align="left">
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</p>
+
+---
+
+## 🐍 GitHub Contribution Snake
+![Snake animation](https://github.com/eman774/eman774/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+✨ *Let’s collaborate, learn together, and build impactful AI solutions.*
