@@ -68,11 +68,11 @@ Full-stack Django web application with product management, cart, order handling,
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eman774&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=eman774&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eman774&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=eman774&theme=tokyonight" />
 </p>
 
 ---
