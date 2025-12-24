@@ -16,18 +16,28 @@ I actively work on **Machine Learning, Deep Learning, NLP**, and **Full-Stack We
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠️ Skills & Technologies
+
+###  Programming Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,sql,django,tensorflow,keras,opencv,git,github&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,js,cpp,sql,html,css" />
 </p>
 
-### 🤖 AI Tools
+###  Frameworks & Libraries
 <p align="left">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=django,bootstrap,tensorflow,keras,opencv,sklearn,git,github" />
 </p>
+
+###  AI & Data Concepts
+<p align="left">
+  <img src="https://img.shields.io/badge/Machine_Learning-0A66C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Deep_Learning-6A1B9A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NLP-00897B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data_Visualization-FF7043?style=for-the-badge"/>
+</p>
+
+###  AI Tools
+<p align="left"> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/> </p>
 
 ### ☁️ Platforms
 <p align="left">
@@ -35,21 +45,13 @@ I actively work on **Machine Learning, Deep Learning, NLP**, and **Full-Stack We
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
 </p>
 
----
+### 🤝 Soft Skills
+<p align="left">
+  <img src="https://img.shields.io/badge/Teamwork-2E7D32?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Fast_Learner-0277BD?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Problem_Solving-F9A825?style=for-the-badge"/>
+</p>
 
-## 🧠 Technical Skills
-
-**Programming Languages:**  
-Python, JavaScript, C++, SQL, HTML, CSS  
-
-**Frameworks & Libraries:**  
-Django, Bootstrap, TensorFlow, Keras, scikit-learn, OpenCV  
-
-**Core Concepts:**  
-Machine Learning, Deep Learning, NLP, OOP, Data Visualization  
-
-**Soft Skills:**  
-Teamwork • Fast Learner • Problem Solving  
 
 ---
 
