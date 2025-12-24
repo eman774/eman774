@@ -53,20 +53,6 @@ Teamwork • Fast Learner • Problem Solving
 
 ---
 
-## 🔨 Featured Projects
-
-### 🧠 IMDB Sentiment Analysis
-NLP-based classifier for analyzing and predicting sentiment of movie reviews using machine learning techniques.
-
-### 🩺 Lung & Colon Cancer Detection
-Deep learning model for **multi-class medical image classification**, supporting early cancer detection using CNN architectures.
-
-### 🛍️ E-commerce Web Application
-Full-stack Django web application with product management, cart, order handling, and user authentication.
-
----
-
-
 ## 🚀 Most Used Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eman774&layout=compact&theme=tokyonight" />
