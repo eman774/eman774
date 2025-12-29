@@ -55,13 +55,6 @@ I actively work on **Machine Learning, Deep Learning, NLP**, and **Full-Stack We
 
 ---
 
-## 🚀 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eman774&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🏆 Achievements
 - 🥉 **Third Place – MASTERMINDS Hackathon 2025**
 - 🤝 Strong experience in **team-based AI projects**
