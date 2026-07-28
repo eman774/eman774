@@ -2,7 +2,12 @@
 <h3 align="center">AI Engineer | LLMs · Agentic AI · Deep Learning · NLP</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+with+LLMs+%26+Agentic+AI;Deep+Learning+%26+NLP;Turning+Ideas+into+Real-World+AI;Always+Learning+New+Things&center=true&width=520&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&color=6A1B9A&center=true&vCenter=true&width=520&height=45&lines=Building+with+LLMs+%26+Agentic+AI;Deep+Learning+%26+NLP;Turning+Ideas+into+Real-World+AI;Always+Learning+New+Things">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/📍-Egypt-6A1B9A?style=flat" alt="location"/>
+  <img src="https://img.shields.io/badge/GPA-3.6-00897B?style=flat" alt="GPA"/>
 </p>
 
 ---
@@ -66,27 +71,29 @@ I build and experiment with **Machine Learning, Deep Learning, NLP, and Agentic 
 
 ### 🌟 Kawkabi (كوكبي) — AI Therapeutic Platform for Children
 Graduation project: an AI-powered therapeutic platform for children with attention challenges (ages 6–12), built across three "planets" — focus, movement, and attention.
-- Built **Task Bulder**, an AI chatbot task builder (Groq/LLaMA, FastAPI, Gradio) that breaks down a child's challenge into guided tasks
+- Built **Najma**, an AI chatbot task builder (Groq/LLaMA, FastAPI, Gradio) that breaks down a child's challenge into guided tasks
 - MediaPipe-based eye/hand tracking games (Focus Quest, Follow the Spark, Meteor Dodge, Shape Match, Gesture Match)
 - ML evaluation pipeline with Random Forest for personalized improvement scoring
-- 🏆 Third Place — iCalex Funding Competition, Creativa Benha
+- 🏆 4th Place — iCalex Funding Competition, Creativa Benha
 
 ### 📄 Transformer-Based Text Summarization
- hands-on project with transformer architectures.
+First hands-on project with transformer architectures.
 - Built a from-scratch Encoder-Decoder Transformer baseline (CNN/DailyMail subset)
 - Fine-tuned BART-base, significantly outperforming the from-scratch baseline (ROUGE-1 0.43, ROUGE-2 0.20, ROUGE-L 0.30)
 
-### 📚 Arabic Book Search Engine
-Group project building a semantic and hybrid search engine for Arabic books.
-- Implemented semantic search using multilingual embeddings with hybrid BM25 + RRF
-- Optimized performance with LRU caching and float16 quantization
+### 📑 Smart Contract Assistant — RAG-Powered Contract Analysis
+A full RAG (Retrieval Augmented Generation) tool for analyzing contracts: upload a PDF, ask questions in plain English, and get answers with source page citations.
+- Built with **LangChain, Groq, Chroma, Gradio, FastAPI & LangServe**
+- Gradio UI for chat + a FastAPI backend for developer integration
+- Includes an evaluation pipeline with LLM-as-Judge scoring
+- Built as part of the **NVIDIA DLI Workshop** on LLM Pipelines & RAG Applications
 
 ---
 
 ## 🏆 Achievements
 
 - 🥉 **Third Place – MASTERMINDS Hackathon 2025**
-- 🏅 **3th Place – iCalex Funding Competition, Creativa Benha**
+- 🏅 **4th Place – iCalex Funding Competition, Creativa Benha**
 - 🤝 IEEE BUB AI Committee member
 - 📚 Continuous learning through hands-on practice and experimentation
 
